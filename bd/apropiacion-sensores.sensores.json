@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65381635c3eed06a3ef3b1ee"
+  },
+  "ID": "s1",
+  "nombre": "sensor1",
+  "minimo": 25,
+  "maximo": 40
+},
+{
+  "_id": {
+    "$oid": "65381635c3eed06a3ef3b1ef"
+  },
+  "ID": "s2",
+  "nombre": "sensor2",
+  "minimo": 10,
+  "maximo": 30
+},
+{
+  "_id": {
+    "$oid": "65381635c3eed06a3ef3b1f0"
+  },
+  "ID": "s3",
+  "nombre": "sensor3",
+  "minimo": 9,
+  "maximo": 19
+}]
